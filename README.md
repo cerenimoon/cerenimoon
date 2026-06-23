@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'am your cerenimoon 👋
+### Computer Engineer | AI & Computer Vision | Full-Stack Developer
+I am a Mid-level Computer Engineer specializing in training high-performance deep learning models, optimizing inference architectures, and building production-grade software workflows. 
 
-<!--
-**cerenimoon/cerenimoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌍 Available for synchronous collaboration within **EMEA/UK/US time zones**.
+- 🛠️ Deeply experienced in **Pytorch, YOLOv5, OpenCV, and Django/PostgreSQL ecosystems**.
+- 🚀 Passionate about optimizing model latency, data stratification, and high-availability databse setups. 
+---
+### 🧰 Technical Toolbox
+| Category | Technologies / Frameworks |
+| **AI & Computer Vision** | PyTorch (CNN), TensorFlow, YOLOv5, OpenCV, TensorRT, ONNX, Scikit-learn |  
+| **Robotics & Simulation** | ROS / ROS2 (Humble), Gazebo, Sensor Fusion |
+| **Backend & Databases** | Python, C# / .NET, JavaScript (ES6+), Django, PostgreSQL, MongoDB |
+| **Tools & Infrastructure** | Linux/Ubuntu, Git/Github, Jira (Agile/Scrum), Oracle VirtualBox, NAT Networking
 
-Here are some ideas to get you started:
+🔭 I’m currently working on my website cerenimoon
+🌱 I’m currently learning new things about React and deployment.
+👯 I’m looking to collaborate on new job opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
