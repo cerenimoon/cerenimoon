@@ -8,9 +8,10 @@ I am a Mid-level Computer Engineer specializing in training high-performance dee
 ---
 ### 🧰 Technical Toolbox
 | Category | Technologies / Frameworks |
+| :--- | :--- |
 | **AI & Computer Vision** | PyTorch (CNN), TensorFlow, YOLOv5, OpenCV, TensorRT, ONNX, Scikit-learn |  
 | **Robotics & Simulation** | ROS / ROS2 (Humble), Gazebo, Sensor Fusion |
-| **Backend & Databases** | Python, C# / .NET, JavaScript (ES6+), Django, PostgreSQL, MongoDB |
+| **Backend & Databases** | Python, C# / .NET, JavaScript (ES6+), Java, Django, PostgreSQL, MongoDB |
 | **Tools & Infrastructure** | Linux/Ubuntu, Git/Github, Jira (Agile/Scrum), Oracle VirtualBox, NAT Networking
 
 🔭 I’m currently working on my website cerenimoon
